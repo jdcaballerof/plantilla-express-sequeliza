@@ -1,8 +1,8 @@
 # Plantilla para backend con express y sequelize
 
-Solo instala las dependencias con `npm i`
-Configura las variables de entorno
-Realiza `npm run dev`
+Solo instala las dependencias con `npm i`  
+Configura las variables de entorno  
+Realiza `npm run dev`  
 
 Expected output:
 ```
